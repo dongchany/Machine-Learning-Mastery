@@ -1,4 +1,4 @@
-- What linear algebra is and why it is relevant and important to machine learning.
+- [What linear algebra is and why it is relevant and important to machine learning.](./Foundations)
 
 - How to create, index, and generally manipulate data in NumPy arrays.
 
